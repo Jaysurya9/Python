@@ -1,5 +1,5 @@
-<h3>*Author* : Jaysurya</h3>
-This is a Python3 GUI based single/Multiple - Random Password Generator API using TkInter.
+<h6>*Author* : Jaysurya</h6>
+This is a Python3 GUI based single/multiple - Random Password Generator API using TkInter.
 <h3>Highlights</h3>
 Random password generation<br>
 Single password generation<br>
