@@ -1,6 +1,8 @@
-'''PROJECT TITLE: PASSWORD GENERATOR 
+'''
+   Author: Jaysurya9
+   PROJECT TITLE: PASSWORD GENERATOR 
    CODE LANGUAGE: PYTHON 3.7.0a3(32-bit)
-   FILE NAME: passwordGenerator.py'''
+   FILE NAME: passwordGenerator-main.py'''
 
 '''SOURCE CODE:'''
 import random
